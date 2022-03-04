@@ -1,0 +1,43 @@
+{
+  "minecraft": {
+    "version": "1.18.1",
+    "modLoaders": [
+      {
+        "id": "forge-39.1.0",
+        "primary": true
+      }
+    ]
+  },
+  "manifestType": "minecraftModpack",
+  "manifestVersion": 1,
+  "name": "AlexCraftt Hardcore",
+  "author": "",
+  "files": [
+    {
+      "projectID": 486392,
+      "fileID": 3623314,
+      "required": true
+    },
+    {
+      "projectID": 60089,
+      "fileID": 3578801,
+      "required": true
+    },
+    {
+      "projectID": 328085,
+      "fileID": 3623348,
+      "required": true
+    },
+    {
+      "projectID": 248787,
+      "fileID": 3626712,
+      "required": true
+    },
+    {
+      "projectID": 238222,
+      "fileID": 3599262,
+      "required": true
+    }
+  ],
+  "overrides": "overrides"
+}
